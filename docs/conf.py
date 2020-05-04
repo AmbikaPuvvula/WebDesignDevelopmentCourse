@@ -18,12 +18,12 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = u'Web Design and Development - APSSDC'
-copyright = u'2020, Andhra Pradesh State Skill Development Corporation'
-author = u'Andhra Pradesh State Skill Development Corporation'
+project = 'Web Design and Development - APSSDC'
+copyright = '2020, Andhra Pradesh State Skill Development Corporation'
+author = 'Andhra Pradesh State Skill Development Corporation'
 
 # The full version, including alpha/beta/rc tags
-release = u'1'
+release = '1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -44,7 +44,7 @@ master_doc='index'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = [u'_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 
 # -- Options for HTML output -------------------------------------------------
