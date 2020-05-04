@@ -11,7 +11,7 @@ Welcome to Web Design and Development - APSSDC's documentation!
    :numbered:
    
    Introduction to Django
-   Introduction to Django.md
+   Intro.md
 
 Indices and tables
 ==================
